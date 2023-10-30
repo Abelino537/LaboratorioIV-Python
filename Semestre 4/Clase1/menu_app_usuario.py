@@ -1,7 +1,7 @@
 """
     Laboratorio IV
     Tec. Programación UTN
-    Abel Pierna
+    NoCode
     15/08/23
     Clase 1: Proyecto BD de usuario, contraseña e id
 """
